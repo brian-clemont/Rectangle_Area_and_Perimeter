@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rectangle Area  &amp; Perimeter</string>
+    <string name="enter_height">Enter Height</string>
+    <string name="enter_width">Enter Width</string>
+    <string name="area">Area</string>
+    <string name="perimeter">Perimeter</string>
+</resources>
